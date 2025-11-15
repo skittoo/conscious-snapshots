@@ -1,6 +1,4 @@
-# conscious-snapshots
-personal thoughts, do not take them serious, and I am not responsible for them. 
-
-# Content:
+# بعض الأفكار التي لا قيمة لها، و انا غير مسئول عنها
+## المحتوي:
 - https://skittoo.github.io/conscious-snapshots/do_we_need_ai.html
 
